@@ -1,2 +1,1 @@
-# kiinteistojaotus_quick_beta1
-
+# beta-karttakuva-maplibre-gljs
