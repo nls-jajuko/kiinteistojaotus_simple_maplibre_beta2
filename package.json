@@ -1,10 +1,10 @@
 {
-  "name": "beta-karttakuva-maplibre-gljs",
+  "name": "kiinteistojaotus-simple-maplibre-beta2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "maplibre-gl": "^1.13.0-rc.4"
+    "maplibre-gl": ">=1.14.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
@@ -12,10 +12,6 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build --public-url . index.html"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nls-jajuko/beta-karttakuva-maplibre-gljs.git"
   },
   "browserslist": {
     "production": [
